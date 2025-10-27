@@ -5,17 +5,21 @@
   Experienced in building applications through personal and academic projects, with a focus on creating effective and innovative solutions.
 </p>
 
+---
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ashleyavecilla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:avecillaashleya@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avecillaashleya@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-7e22ce?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
+
